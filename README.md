@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://darkx-dev.github.io/easy-bank-landing-page/)
+- Live Site URL: [LIVE](https://darkx-dev.github.io/easy-bank-landing-page/)
 
 ### Built with
 
